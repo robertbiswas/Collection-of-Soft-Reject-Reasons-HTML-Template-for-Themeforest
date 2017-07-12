@@ -1,3 +1,5 @@
+# Soft Reject Reasons of HTML5 Template for Themeforest
+
 1. Please avoid trailing commas at the end of JS Objects. For example: { value_1: 5, value_2: 5, };
 
 2. Make sure the CSS file is well documented with proper table of contents. ex:http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/
